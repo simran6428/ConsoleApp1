@@ -34,7 +34,7 @@ namespace ConsoleApp1
             try
             {
 
-                using (StreamReader sr = new StreamReader("U:/Users/730067/aa.txt"))
+                using (StreamReader sr = new StreamReader("U:/Users/730317/aa.txt"))
                 {
                     string line;
 
